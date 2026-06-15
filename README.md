@@ -89,30 +89,6 @@ The objective was to identify security weaknesses, assess associated risks, and 
 | Samba Exposure | 7.5 | High |
 | Multiple Open Services | 6.5 | Medium |
 
----
-
-## Screenshots
-
-### Kali Linux VM
-![Kali Linux](screenshots/01-kali-linux-vm.png)
-
-### Metasploitable Login
-![Metasploitable Login](screenshots/02-metasploitable-login.png)
-
-### Target IP Address
-![Target IP](screenshots/03-target-ip-address.png)
-
-### Nmap Scan Results
-![Nmap](screenshots/04-nmap-basic-scan.png)
-
-### Service Detection
-![Service Detection](screenshots/05-nmap-service-detection.png)
-
-### Nikto Scan Results
-![Nikto](screenshots/06-nikto-scan-results.png)
-
----
-
 ## Remediation Recommendations
 
 ### FTP
